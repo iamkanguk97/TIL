@@ -31,3 +31,4 @@
 
 -   [온프레미스(On-premise)와 클라우드(Cloud) 비교하기](<https://github.com/iamkanguk97/TIL/blob/main/Others/%EC%98%A8%ED%94%84%EB%A0%88%EB%AF%B8%EC%8A%A4(On-premise)%EC%99%80%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C(Cloud).md>)
 -   [Basic 인증과 Bearer 인증에 대해서](https://github.com/iamkanguk97/TIL/blob/main/Basic%20%EC%9D%B8%EC%A6%9D%EA%B3%BC%20Bearer%20%EC%9D%B8%EC%A6%9D.md)
+-   [Timezone (UTC와 KST)](https://github.com/iamkanguk97/TIL/blob/main/Others/Timezone.md)
