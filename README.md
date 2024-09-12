@@ -26,6 +26,7 @@
 ## TypeScript
 
 -   [타입 호환성](https://github.com/iamkanguk97/TIL/blob/main/TypeScript/%ED%83%80%EC%9E%85%20%ED%98%B8%ED%99%98%EC%84%B1.md)
+-   [@types 적용하기](https://github.com/iamkanguk97/TIL/blob/main/TypeScript/%40types%20%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 
 ## Others
 
